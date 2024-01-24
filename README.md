@@ -8,14 +8,18 @@ Ce projet informatique contient 135 machins (applications Windows) qui faciliten
 
 Depuis son hébergement sur GitHub, il n'est plus possible de télécharger un machin individuel. En revanche, tous les machins sont contenus dans une archive qu'on peut obtenir en cliquant sur le lien: [meteo.zip](bin/meteo.zip).
 
+> ![](img/download_installer.png)
+>
+> Cliquez ensuite sur l'icône `Download raw file` pour démarrer le téléchargement.
+>
 > Le contenu de l'archive n'a qu'à être extrait dans un dossier appartenant à l'utilisateur. Chaque machin peut alors être démarré avec un double-clic de la façon habituelle.
-
+>
 > Si **LanceurMETEO** doit être installé, il est préférable d'extraire le contenu de l'archive vers le dossier `..\Documents\METEO`.
 
 Les noms des applications sont cryptiques. L'archive [docs.zip](bin/docs.zip) contient des descriptions des machins. 
 
 > Le contenu de l'archive n'a qu'à être extrait dans un dossier appartenant à l'utilisateur. Commencez avec le fichier `index.html` qui contient les liens vers les quatre listes de descriptions.
-
+>
 > Il n'est pas utile de télécharger `docz.zip` si l'on installe **LanceurMETEO**.
 
 **LanceurMETEO** affiche la description de chacun des machins constituant le projet METEO par thème ou de façon alphabétique. 
